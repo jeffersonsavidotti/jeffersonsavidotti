@@ -18,6 +18,7 @@ Hello, I'm Jefferson Savidotti, a technology enthusiast passionate about solving
 
 - 🎓 **Microsoft Certified: Azure Data Fundamentals (DP900)**: Certification demonstrating my expertise in data fundamentals on the Azure platform.
 - 🎓 **Microsoft Certified: Azure AI Fundamentals (AI900)**: Certification demonstrating my expertise in AI fundamentals and machine learning on the Azure platform.
+- 🎓 **[View my badges](https://www.credly.com/users/jefferson-aparecido-savidotti-dos-savidotti/badges)**
 
 ## Let's Connect? 🌐
 
