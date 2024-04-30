@@ -41,20 +41,22 @@
   </div>
 </div>
 
-  ##
-<div style="display: inline_block">
-  <h3>Certifications (Certificações)</h3>
-  <img align="center" alt="-DP900" height="70" width="70" src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />
-  <img align="center" alt="-AI900" height="70" width="70" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />
-</div>
+##
 
-  ##
 <div align="left" >
   <h3>Contacts (Contatos)</h3>
   <a href="https://instagram.com/jeffersonsavidotti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jeffersonsavidotti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeffersonsavidotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5516988345108&text=Ol%C3%A1,%20Jefferson" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5516988345108&text=Ol%C3%A1,%20Jefferson" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.mkassessoriadigital.com/" target="_blank"><img src="https://img.shields.io/badge/-Website-%232c3e50?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+<div align="center">
+  <img width="150" src="https://komarev.com/ghpvc/?username=jeffersonsavidotti&label=Profile+Views&color=0e75b6&style=flat" alt="Visitor Counter">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
+
