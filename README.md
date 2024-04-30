@@ -30,6 +30,7 @@
     <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   </div>
 
   <!-- Data -->
@@ -41,7 +42,15 @@
   </div>
 </div>
 
-##
+
+  ##
+<div style="display: inline_block">
+  <h3>Certifications (Certificações)</h3>
+  <img align="center" alt="-DP900" height="70" width="70" src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />
+  <img align="center" alt="-AI900" height="70" width="70" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />
+</div>
+
+  ##
 
 <div align="left" >
   <h3>Contacts (Contatos)</h3>
