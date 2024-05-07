@@ -49,6 +49,11 @@
   <img align="center" alt="-DP900" height="70" width="70" src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />
   <img align="center" alt="-AI900" height="70" width="70" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />
 </div>
+ 
+ ##
+<div style="display: inline_block">
+  <h3>Scientific Articles (Artigos Científicos)</h3>
+  <a href="https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jefferson-savidotti-d5s1f/" target="_blank"><img alt="-Caminho para certificação DP-900" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 
   ##
 
