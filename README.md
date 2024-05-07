@@ -64,6 +64,7 @@
   <a href="https://www.linkedin.com/in/jeffersonsavidotti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5516988345108&text=Ol%C3%A1,%20Jefferson" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.mkassessoriadigital.com/" target="_blank"><img src="https://img.shields.io/badge/-Website-%232c3e50?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/20104601/jefferson-savidotti"><img src="https://stackoverflow.com/users/flair/20104601.png?theme=dark" width="100" height="28" alt="profile for Jefferson Savidotti at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jefferson Savidotti at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
 ##
