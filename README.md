@@ -55,7 +55,7 @@
   <h3>Scientific Articles (Artigos Científicos)</h3>
   <a href="https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jefferson-savidotti-d5s1f/" target="_blank"><img alt="-Caminho para certificação DP-900" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 
-  ##
+##
 
 <div align="left" >
   <h3>Contacts (Contatos)</h3>
@@ -65,7 +65,9 @@
   <a href="https://api.whatsapp.com/send?phone=5516988345108&text=Ol%C3%A1,%20Jefferson" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%228B22?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.mkassessoriadigital.com/" target="_blank"><img src="https://img.shields.io/badge/-Website-%232c3e50?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/20104601/jefferson-savidotti"><img src="https://stackoverflow.com/users/flair/20104601.png?theme=dark" width="100" height="28" alt="profile for Jefferson Savidotti at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jefferson Savidotti at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+  <a href="https://g.dev/jeffersonsavidotti" target="_blank"><img src="https://img.shields.io/badge/-Google%20Dev-%23EA4335?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 </div>
+
 
 ##
 
