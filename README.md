@@ -48,6 +48,7 @@
   <h3>Certifications (Certificações)</h3>
   <img align="center" alt="-DP900" height="70" width="70" src="https://images.credly.com/size/220x220/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" />
   <img align="center" alt="-AI900" height="70" width="70" src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" />
+  <img align="center" alt="-AI900" height="70" width="70" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)](https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" />
 </div>
  
  ##
