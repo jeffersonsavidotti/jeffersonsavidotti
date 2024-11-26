@@ -50,7 +50,7 @@
 
   <!-- Data -->
   <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-    <h4>Data</h4>
+    <h4>Data & Analytics</h4>
     <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
