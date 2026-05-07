@@ -1,32 +1,33 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Jefferson+Savidotti&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<h1 align="center">Data Engineer | Cloud & AI Specialist</h1>
+<h1 align="center">Data Engineer | Cloud and AI Specialist</h1>
 
 <p align="center">
-Designing scalable data platforms • Building intelligent systems • Transforming data into decision power
+Designing scalable data platforms, building intelligent systems, and transforming data into decision-driven solutions.
 </p>
 
 ---
 
-## About Me
+## About
 
-Data Engineer focused on **Big Data**, **Cloud Architecture**, and **Artificial Intelligence**.
+I am a Data Engineer specialized in Big Data ecosystems, cloud-native architectures, and Artificial Intelligence integration.
 
-I work building modern data platforms using Lakehouse architecture, distributed processing and cloud-native solutions.
+My professional focus is the development of modern data platforms based on Lakehouse architecture, distributed processing, and reliable data pipelines capable of supporting enterprise-scale analytics and intelligent applications.
 
-Passionate about technology, education, and innovation.
+Areas of expertise:
 
-- 🔹 Data Engineering & Big Data
-- 🔹 Cloud & DevOps
-- 🔹 Machine Learning Integration
-- 🔹 Data Quality & Governance
-- 🔹 Technical Instructor & Content Creator
+- Data Engineering and Big Data Processing  
+- Cloud Architecture and DevOps Practices  
+- Machine Learning Integration  
+- Data Quality, Governance, and Reliability  
+- Technical Education and Knowledge Sharing  
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-### Data Engineering & Analytics
+### Data Engineering and Analytics
+
 <p>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg"/>
@@ -38,9 +39,18 @@ Passionate about technology, education, and innovation.
 <img height="40" src="https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"/>
 </p>
 
+Core competencies include:
+
+- ETL and ELT Pipelines  
+- Distributed Data Processing  
+- Data Modeling  
+- SQL and NoSQL Databases  
+- Analytics and Business Intelligence  
+
 ---
 
-### Cloud & DevOps
+### Cloud and DevOps
+
 <p>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
@@ -50,9 +60,18 @@ Passionate about technology, education, and innovation.
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"/>
 </p>
 
+Experience with:
+
+- Microsoft Azure  
+- AWS and Google Cloud Platform  
+- Containerization and Automation  
+- CI/CD Pipelines  
+- Infrastructure and Platform Engineering  
+
 ---
 
-### Backend & Programming
+### Backend and Programming
+
 <p>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
@@ -61,9 +80,12 @@ Passionate about technology, education, and innovation.
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
 </p>
 
+Technologies used for service development, APIs, and system integration.
+
 ---
 
-### Frontend (Support Skills)
+### Frontend (Supporting Skills)
+
 <p>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -73,14 +95,7 @@ Passionate about technology, education, and innovation.
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg"/>
 </p>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=jeffersonsavidotti&show_icons=true&count_private=true&hide_border=true&title_color=483D8B&icon_color=483D8B&text_color=ffffff&bg_color=0d1117"/>
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsavidotti&layout=compact&hide_border=true&title_color=483D8B&text_color=ffffff&bg_color=0d1117"/>
-</div>
+Frontend technologies used primarily for integration support and full-stack collaboration.
 
 ---
 
@@ -93,6 +108,11 @@ Passionate about technology, education, and innovation.
 <img height="70" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/112693359"/>
 </p>
 
+- Microsoft Azure Data Fundamentals (DP-900)  
+- Microsoft Azure AI Fundamentals (AI-900)  
+- Microsoft Azure Fundamentals (AZ-900)  
+- Databricks Lakehouse Fundamentals  
+
 ---
 
 ## Scientific Article
@@ -102,7 +122,7 @@ https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jeffer
 
 ---
 
-## Connect With Me
+## Professional Links
 
 <p>
 <a href="https://www.linkedin.com/in/jeffersonsavidotti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -115,11 +135,24 @@ https://www.linkedin.com/pulse/caminho-para-certifica%C3%A7%C3%A3o-dp-900-jeffer
 
 ---
 
+## GitHub Insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jeffersonsavidotti&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffersonsavidotti&theme=tokyonight"/>
+</p>
+
+---
+
 ## Vision
 
-> Data is not just technology — it is **decision power**.
+Data should operate as a strategic asset capable of enabling scalable intelligence, reliable decision-making, and measurable business impact.
 
-My mission is to design platforms where data becomes scalable intelligence capable of driving real-world transformation.
+The objective is to design platforms where data flows efficiently, scales consistently, and supports real-world transformation.
 
 ---
 
